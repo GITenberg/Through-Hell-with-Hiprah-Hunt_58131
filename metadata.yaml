@@ -1,5 +1,8 @@
 _repo: Through-Hell-with-Hiprah-Hunt_58131
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58131-h/images/cover.jpg
 creator:
   author:
     agent_name: Young, Arthur
@@ -12,6 +15,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Arthur_Young
     - http://en.wikipedia.org/wiki/Arthur_Young
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58131#Through-Hell-with-Hiprah-Hunt
 gutenberg_issued: '2018-10-18'
 gutenberg_type: Text
 identifiers:
