@@ -1,0 +1,26 @@
+_repo: Through-Hell-with-Hiprah-Hunt_58131
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Young, Arthur
+    alias: Young, Artur
+    birthdate: 1741
+    deathdate: 1820
+    gutenberg_agent_id: '6120'
+    url: http://www.gutenberg.org/2009/agents/6120
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Arthur_Young
+    - http://en.wikipedia.org/wiki/Arthur_Young
+description: ''
+gutenberg_issued: '2018-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Through Hell with Hiprah Hunt
+url: http://www.gutenberg.org/ebooks/58131
